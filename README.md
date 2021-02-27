@@ -5,7 +5,7 @@
 
 ## 👋 About me
 
-I'm a Fullstack developer and visual computing researcher, also currently pursuing a master's degree at graphic and visual computing. Welcome to my page and make yourself at home! 🙂
+I'm a Fullstack developer and visual computing researcher, I'm also currently pursuing a master's degree at graphic and visual computing. Welcome to my page and make yourself at home! 🙂
 
 ## ☕ Tech Stack
 
