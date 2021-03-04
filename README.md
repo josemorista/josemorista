@@ -13,4 +13,4 @@ I'm a Fullstack developer and visual computing researcher, I'm also currently pu
 - 💻 Python | C | C# | C++;
 - 🛢 MySQL | PostgreSQL | MongoDb | Redis;
 - 🔧 Docker | Docker-compose | SQS | RabbitMQ | AWS | DigitalOcean | Nginx;
-- 🞁 Jenkins | GithubActions;
+- ↗ Jenkins | GithubActions;
