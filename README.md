@@ -11,6 +11,6 @@ I'm a Fullstack developer and visual computing researcher, I'm also currently pu
 
 - 🌐 Node.Js | TypeScript | React.Js | React Native | HTML | SASS | CSS | JavaScript;
 - 💻 Python | C | C# | C++;
-- 🛢 MySQL | PostgreSQL | MongoDb | Redis;
-- 🔧 Docker | Docker-compose | SQS | RabbitMQ | AWS | DigitalOcean | Nginx;
+- 🛢 MySQL | PostgreSQL | MongoDb | Redis | Fauna;
+- 🔧 Docker | Docker-compose | Kubernetes | SQS | RabbitMQ | AWS | DigitalOcean | Nginx;
 - ⬆️ Jenkins | GithubActions;
