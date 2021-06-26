@@ -20,3 +20,4 @@ I'm a Fullstack developer and visual computing researcher, I'm also currently pu
 - <a href="https://github.com/josemorista/nodejs-dynamo-serverless">Node.Js: Serverless/DynamoDB/SQS.</a>
 - <a href="https://github.com/josemorista/koa-postgres">Koa microframework and native driver migrations with DDD pattern.</a>
 - <a href="https://github.com/josemorista/movies_ia_prolog">Movie dialog AI using only prolog.</a>
+- <a href="https://github.com/josemorista/jm-money-react-clean">Clean SOLID architecture with React domain and presentation layers.</a>
