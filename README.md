@@ -11,12 +11,12 @@ I'm a Fullstack developer and visual computing researcher, I'm also currently pu
 
 - 🌐 Node.Js | TypeScript | React.Js | React Native | HTML | SASS | CSS | JavaScript;
 - 💻 Python | C | C# | C++;
-- 🛢 MySQL | PostgreSQL | MongoDb | Redis | Fauna;
+- 🛢 MySQL | PostgreSQL | MongoDb | Redis | Fauna | DynamoDb;
 - 🔧 Serverless | Docker | Docker-compose | Kubernetes | SQS | RabbitMQ | AWS | DigitalOcean | Nginx;
 - ⬆️ Jenkins | GithubActions;
 
-## POC/Template projects
+## :zap: POC/Template projects
 
-- :octocat: <a href="https://github.com/josemorista/nodejs-dynamo-serverless">Node.Js: Serverless/DynamoDB/SQS.</a>
-- :octocat: <a href="https://github.com/josemorista/koa-postgres">Koa microframework and native driver migrations with DDD pattern.</a>
-- :octocat: <a href="https://github.com/josemorista/movies_ia_prolog">Movie dialog AI using only prolog.</a>
+- <a href="https://github.com/josemorista/nodejs-dynamo-serverless">Node.Js: Serverless/DynamoDB/SQS.</a>
+- <a href="https://github.com/josemorista/koa-postgres">Koa microframework and native driver migrations with DDD pattern.</a>
+- <a href="https://github.com/josemorista/movies_ia_prolog">Movie dialog AI using only prolog.</a>
