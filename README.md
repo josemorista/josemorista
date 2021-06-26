@@ -17,4 +17,6 @@ I'm a Fullstack developer and visual computing researcher, I'm also currently pu
 
 ## POC/Template projects
 
-- <a href="https://github.com/josemorista/nodejs-dynamo-serverless">Node.Js: Serverless/DynamoDB/SQS.</a>
+- :octocat: <a href="https://github.com/josemorista/nodejs-dynamo-serverless">Node.Js: Serverless/DynamoDB/SQS.</a>
+- :octocat: <a href="https://github.com/josemorista/koa-postgres">Koa microframework and native driver migrations with DDD pattern.</a>
+- :octocat: <a href="https://github.com/josemorista/movies_ia_prolog">Movie dialog AI using only prolog.</a>
