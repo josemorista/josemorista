@@ -14,3 +14,7 @@ I'm a Fullstack developer and visual computing researcher, I'm also currently pu
 - 🛢 MySQL | PostgreSQL | MongoDb | Redis | Fauna;
 - 🔧 Serverless | Docker | Docker-compose | Kubernetes | SQS | RabbitMQ | AWS | DigitalOcean | Nginx;
 - ⬆️ Jenkins | GithubActions;
+
+## POC/Template projects
+
+- <a href="https://github.com/josemorista/nodejs-dynamo-serverless">Node.Js: Serverless/DynamoDB/SQS.</a>
