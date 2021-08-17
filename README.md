@@ -18,6 +18,7 @@ I'm a Fullstack developer and visual computing researcher, I'm also currently pu
 ## :zap: POC/Template projects
 
 - <a href="https://github.com/josemorista/nodejs-dynamo-serverless">Node.Js: Serverless/DynamoDB/SQS.</a>
+- <a href="https://github.com/josemorista/fastify-rabbitmq">Simple fastify RabbitMQ publisher and consumer with yarn pnp.</a>
 - <a href="https://github.com/josemorista/koa-postgres">Koa microframework with Postgres native driver migrations.</a>
 - <a href="https://github.com/josemorista/solid-spring-boot">Domain driven development API using Java Springboot.</a>
 - <a href="https://github.com/josemorista/jm-money-react-clean">Clean SOLID architecture with React domain and presentation layers.</a>
