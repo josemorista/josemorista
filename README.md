@@ -5,7 +5,12 @@
 
 ## 👋 About me
 
-I'm a Fullstack developer and visual computing researcher, I have a Master's degree at Graphic and Visual computing. Welcome to my page and make yourself at home! 🙂
+I'm a Fullstack developer and researcher. Welcome to my page and make yourself at home! 🙂
+
+## 📚 Education
+
+- Master's degree at Graphic and Visual computing at UFF;
+- Graduated in Computer Science at UFF.
 
 ## ☕ Tech Stack
 
