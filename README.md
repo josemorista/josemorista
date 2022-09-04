@@ -30,3 +30,8 @@ I'm a Fullstack developer and researcher. Welcome to my page and make yourself a
 - <a href="https://github.com/josemorista/jm-money-react-clean">Clean SOLID architecture with React domain and presentation layers.</a>
 - <a href="https://github.com/josemorista/deno-oak-server">Deno oak server and development environment.</a>
 - <a href="https://github.com/josemorista/movies_ia_prolog">Movie dialog AI using only prolog.</a>
+
+## :zap: Published packages
+
+- <a href="https://www.npmjs.com/package/cache-service-lib">cache-service-lib</a>
+- <a href="https://www.npmjs.com/package/http-service-lib">http-service-lib</a>
