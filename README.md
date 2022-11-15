@@ -35,3 +35,4 @@ I'm a Fullstack developer and researcher. Welcome to my page and make yourself a
 
 - <a href="https://www.npmjs.com/package/cache-service-lib">cache-service-lib</a>
 - <a href="https://www.npmjs.com/package/http-service-lib">http-service-lib</a>
+- <a href="https://www.npmjs.com/package/http-bounded-context-lib">http-bounded-context-lib</a>
