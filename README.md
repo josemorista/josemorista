@@ -15,9 +15,9 @@ I'm a Fullstack developer and researcher. Welcome to my page and make yourself a
 ## ☕ Tech Stack
 
 - 🌐 Node.Js | TypeScript | React.Js | Vue.Js | React Native | HTML | SASS | CSS | JavaScript;
-- 💻 Python | C | C# | C++;
+- 💻 Python | C;
 - 🛢 MySQL | PostgreSQL | MongoDb | Redis | Fauna | DynamoDb;
-- 🔧 Serverless | Docker | Docker-compose | Kubernetes | Kafka | SQS | RabbitMQ | AWS | DigitalOcean | Nginx;
+- 🔧 Serverless | Docker | Kubernetes | Kafka | SQS | RabbitMQ | AWS | Pulumi | Nginx;
 - ⬆️ Jenkins | GithubActions;
 
 ## :zap: POC/Template projects
@@ -33,6 +33,7 @@ I'm a Fullstack developer and researcher. Welcome to my page and make yourself a
 
 ## 📦 Published packages
 
+- <a href="https://www.npmjs.com/package/shiu">shiu(secret injector library</a>
 - <a href="https://www.npmjs.com/package/cache-service-lib">cache-service-lib</a>
 - <a href="https://www.npmjs.com/package/http-service-lib">http-service-lib</a>
 - <a href="https://www.npmjs.com/package/http-bounded-context-lib">http-bounded-context-lib</a>
