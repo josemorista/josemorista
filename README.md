@@ -1,7 +1,7 @@
 # José Morista 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jos%C3%A9%20Morista-blueviolet?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jos%C3%A9-morista/](https://www.linkedin.com/in/josemorista/))](https://www.linkedin.com/in/josemorista/) 
-[![Gmail Badge](https://img.shields.io/badge/-josemorista@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josemorista@id.uff.br)](mailto:josemorista@id.uff.br)
+[![Gmail Badge](https://img.shields.io/badge/-josemorista@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josemorista@id.uff.br)](mailto:josemorista@gmail.com.br)
 
 ## 👋 About me
 
